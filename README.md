@@ -1,16 +1,21 @@
-## Hi there 👋
+# Anastassia Mayba
 
-<!--
-**Nes167/Nes167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Minust
 
-Here are some ideas to get you started:
+Olen Tallinna Tööstushariduskeskuse õpilane.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Õpin IT korralduse aluseid ning huvitun infosüsteemidest, andmebaasidest ja tarkvaraarendusest.
+
+Mulle meeldib õppida uusi tehnoloogiaid ja arendada oma IT-oskusi.
+
+## Huvid
+
+- Andmebaasid
+- SQL Server
+- Git ja GitHub
+- Veebiarendus
+- IT projektid
+
+## Eesmärk
+
+Soovin omandada praktilisi IT-alaseid teadmisi ning arendada oma oskusi tulevaseks tööks IT-valdkonnas.
